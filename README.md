@@ -2,7 +2,7 @@
 
 <p align="center">
   🔍 Seeking Internship & Job Opportunities <br/>
-  💻 Python | Cybersecurity | Software Devlopment
+  💻 Python | Cybersecurity | AI/ML | Software Devlopment
 </p>
 
 
@@ -14,10 +14,10 @@
 
 ## 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,c&theme=light" height="40" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github&theme=light" height="40" />
   <img src="https://skillicons.dev/icons?i=googlecloud&theme=light" height="40" />
