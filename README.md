@@ -1,8 +1,8 @@
 <h1 align="center">Aksh Kansagara </h1>
 
 <p align="center">
-  🔍 Seeking Internship & Job Opportunities <br/>
-  💻 Python | Cybersecurity | AI/ML | Software Devlopment
+  <strong>Computer Engineering | Python Developer | AI/ML Enthusiast</strong><br/>
+  Building practical software with a focus on clarity, logic, and learning
 </p>
 
 
@@ -14,29 +14,29 @@
 
 ## 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,python,java&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,python&theme=light" height="40" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" height="40" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" /> -->
   <img src="https://skillicons.dev/icons?i=mysql,androidstudio,vscode,git,github&theme=light" height="40" />
   <img src="https://skillicons.dev/icons?i=googlecloud&theme=light" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,windows&theme=light" height="40" />
 </p>
 
 ## 🤝 Let's Connect
 <p>
   <a href="mailto:kansagaraaksh@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" />
   </a>
   <a href="https://linkedin.com/in/akshkansagara">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
   </a>
   <a href="https://github.com/akshkansagara">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" height="40" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" />
   </a>
   <a href="https://discordapp.com/users/akshkansagara">
-    <img src="https://skillicons.dev/icons?i=discord&theme=light" height="40" />
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" />
   </a>
 </p>
 
