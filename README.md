@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-Final-year BTech Computer Engineering student with a strong focus on **backend development**, **Python**, and **AI/ML**. I go beyond surface-level learning — I dig into how things actually work, whether that's language internals, database design, or building APIs that are clean and maintainable.
+Final-year BTech Computer Engineering student with a strong focus on **backend development**, **Python**, and **AI/ML**. I go beyond surface-level learning - I dig into how things actually work, whether that's language internals, database design, or building APIs that are clean and maintainable.
 
 Currently gaining real-world experience at **Inexture Solutions** while working on independent projects to strengthen my engineering foundation. Actively looking for fresher roles in **Backend · Python · AI/ML · Data Science** where I can contribute from day one and grow fast.
 
