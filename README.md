@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-Final-year BTech Computer Engineering student with a strong focus on **backend development**, **Python**, and **AI/ML**. I go beyond surface-level learning - I dig into how things actually work, whether that's language internals, database design, or building APIs that are clean and maintainable.
+Recent BTech Computer Engineering Graduate with a strong focus on **backend development**, **Python**, and **AI/ML**. I go beyond surface-level learning - I dig into how things actually work, whether that's language internals, database design, or building APIs that are clean and maintainable.
 
 Currently gaining real-world experience at **Inexture Solutions** while working on independent projects to strengthen my engineering foundation. Actively looking for fresher roles in **Backend · Python · AI/ML · Data Science** where I can contribute from day one and grow fast.
 
@@ -24,29 +24,33 @@ Currently gaining real-world experience at **Inexture Solutions** while working 
 
 ## 💻 Tech Stack
 
-**Languages**
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js&theme=dark" height="36" />
+  <img src="https://skillicons.dev/icons?i=python,js,typescript&theme=dark" height="36" />
 </p>
 
-**Backend & Databases**
+### Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,postgres&theme=dark" height="36" />
 </p>
 
-**AI / ML / Data Science**
+### AI / ML / Data Science
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="Scikit-Learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36" alt="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="36" alt="Matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="Jupyter" />
 </p>
 
-**Frontend**
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" height="36" />
 </p>
 
-**Tools & Platforms**
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,docker,linux,vscode,googlecloud&theme=dark" height="36" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,postman,googlecloud&theme=dark" height="36" />
 </p>
